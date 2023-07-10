@@ -1,11 +1,11 @@
 ---
 title: "Literate programming with `rmarkdown` (and `quarto`)"
-author: "[Nikita Gusarov$^{ab}$](mailto:nikita.gusarov@univ-grenoble-alpes.fr)"
-shortauthor: "Gusarov N."
+author: "[Nikita Gusarov$^{ab}$](mailto:nikita.gusarov@univ-grenoble-alpes.fr) and [Iragaël Joly$^a$](mailto:iragael.joly@grenoble-inp.fr)"
+shortauthor: "Gusarov N. and Joly I."
 institute: |
     $^a$ GAEL, Univ. Grenoble Alpes, CNRS, INRAE, Grenoble INP, 38000 Grenoble, France \par
     $^b$ G-SCOP, Univ. Grenoble Alpes, CNRS, Grenoble INP, 38000 Grenoble, France \par
-date: 10 July 2023
+date: 07 July 2023
 class: seminar 
 classoption: aspectratio=169
 toplogo: uga

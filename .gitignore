@@ -378,4 +378,4 @@ tests
 
 # Specific files not to ignore
 *.pdf
-!AI SUMMER/rmarkdown/Literate programming with rmarkdown.pdf
+!Literate programming with rmarkdown.pdf
